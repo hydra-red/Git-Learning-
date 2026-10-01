@@ -3,3 +3,7 @@ When creating a repository for git , it is important to follow best practices to
 1. ** git status **: Tells if its already a git repository or not. If it is not, you can initialize it using `git init`.
 
 2. ** git init **: Initializes a new git repository in your project directory. This creates a .git folder that tracks all changes.
+
+3. ** git add **: Adds files to the staging area. You can use `git add .` to add all files or specify individual files.
+
+4. ** git commit **: Commits the staged changes to the repository with a descriptive message. Use `git commit -m "Your commit message"`. 
