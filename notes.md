@@ -13,3 +13,4 @@ When creating a repository for git , it is important to follow best practices to
 6. ** git merge **: Merges changes from one branch into another. Use `git merge branch_name` to merge the specified branch into your current branch.
 
 7. ** conflict resolution **: If there are conflicts during a merge, you will need to resolve them manually. Open the conflicting files, make the necessary changes, and then use `git add` to stage the resolved files before committing.
+
