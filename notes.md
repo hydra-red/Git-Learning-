@@ -10,4 +10,7 @@ When creating a repository for git , it is important to follow best practices to
 
 5. ** git tag **: Tags are used to mark specific points in history as important. You can create a tag using `git tag <tag_name>` and view all tags with `git tag`.
 
+Rebase
 
+6. ** git rebase **: Rebase is a powerful Git command that allows you to integrate changes from one branch into another. It works by moving or combining a sequence of commits to a new base commit. This can help maintain a cleaner project history by avoiding unnecessary merge commits.
+7. ** git rebase <branch> **: This command rebases the current branch onto the specified branch. It applies the commits from the current branch on top of the target branch, effectively replaying the changes.
