@@ -8,9 +8,6 @@ When creating a repository for git , it is important to follow best practices to
 
 4. ** git commit **: Commits the staged changes to the repository with a descriptive message. Use `git commit -m "Your commit message"`. 
 
-5. ** git branch **: Creates a new branch for your work. Use `git branch branch_name` to create a new branch and `git checkout branch_name` to switch to it.
+5. ** git tag **: Tags are used to mark specific points in history as important. You can create a tag using `git tag <tag_name>` and view all tags with `git tag`.
 
-6. ** git merge **: Merges changes from one branch into another. Use `git merge branch_name` to merge the specified branch into your current branch.
-
-7. ** conflict resolution **: If there are conflicts during a merge, you will need to resolve them manually. Open the conflicting files, make the necessary changes, and then use `git add` to stage the resolved files before committing.
 

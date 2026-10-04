@@ -1,2 +1,0 @@
-**git switch -c <branch_name>**: This command creates a new branch with the specified name and switches to it. It is a shorthand for creating and switching to a new branch in one step.
-** git checkout <branch_name>**: This command switches to the specified branch. If the branch does not exist, it will return an error.
